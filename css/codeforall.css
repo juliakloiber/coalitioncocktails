@@ -59,6 +59,11 @@ a:hover {
   font-style: normal;
 }
 
+.cocktail {
+  margin: 1em 0 1em;
+  padding: 25;
+}
+
 .jumbotron p {
   font-size: 18px;
 }
