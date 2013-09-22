@@ -16,6 +16,18 @@ body {
   margin: 30px 0;
 }
 
+/* shame css goes here*/
+
+.cocktail-container {
+  margin: 0 auto;
+  width: 1080px;
+}
+
+.cocktail {
+  float: left;
+  width: 150px;
+}
+
 a, a:visited {
   color: #339DD7;
 }
@@ -61,7 +73,7 @@ a:hover {
 
 .cocktail {
   margin: 3em 0 1em 0;
-  padding: 0 15px 0 0;
+  /* padding: 0 15px 0 0; */
 }
 
 .jumbotron p {
